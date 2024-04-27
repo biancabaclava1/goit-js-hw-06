@@ -1,1 +1,1 @@
-# goit-js-hw-06
+# GoIT JavaScript course homework
